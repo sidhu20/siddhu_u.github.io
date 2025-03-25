@@ -1,4 +1,4 @@
-# siddhu_u.github.io
+# siddhu u
 
 # Data Analytics Engineer
 
